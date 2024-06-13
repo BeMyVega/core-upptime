@@ -24,7 +24,7 @@ status-website:
   introMessage: This webpage is powered by this [GitHub repository](https://github.com/upptime/upptime)
   navbar:
     - title: Status
-      href: /
+      href: /core-upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
