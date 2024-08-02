@@ -6,15 +6,15 @@
     "slug": "plataforma",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "93.68%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.10%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.87%",
-    "time": 536,
-    "timeDay": 462,
-    "timeWeek": 502,
-    "timeMonth": 532,
-    "timeYear": 536,
+    "time": 537,
+    "timeDay": 574,
+    "timeWeek": 513,
+    "timeMonth": 536,
+    "timeYear": 537,
     "dailyMinutesDown": {
       "2024-07-31": 91
     }
@@ -26,15 +26,15 @@
     "slug": "portainer",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "93.71%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.10%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.87%",
-    "time": 615,
-    "timeDay": 492,
-    "timeWeek": 564,
-    "timeMonth": 624,
-    "timeYear": 615,
+    "time": 617,
+    "timeDay": 716,
+    "timeWeek": 588,
+    "timeMonth": 629,
+    "timeYear": 617,
     "dailyMinutesDown": {
       "2024-07-31": 91
     }
